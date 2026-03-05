@@ -23,7 +23,7 @@
 
 Weather application with search, favorites and 7-day forecast.
 
-🔗 Live Demo: https://your-demo-link.vercel.app
+
 🔗 Repository: https://github.com/yourusername/weather-app
 
 Features:

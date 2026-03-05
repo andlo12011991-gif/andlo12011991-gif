@@ -46,7 +46,7 @@ Features:
 
 ## 📫 Contact
 
-* GitHub: https://github.com/yourusername
+* GitHub: (https://github.com/andlo12011991-gif/andlo12011991-gif/)
 * Email: andlo12011991@gmail.com
 
 ---

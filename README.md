@@ -47,7 +47,7 @@ Features:
 ## 📫 Contact
 
 * GitHub: https://github.com/yourusername
-* Email: [your@email.com](mailto:your@email.com)
+* Email: andlo12011991@gmail.com
 
 ---
 
